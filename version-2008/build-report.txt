@@ -1,0 +1,7 @@
+parsed_movies: 2000
+detail_pages: 2000
+category_pages: 10
+html_pages_total: 2014
+m3u8_sources: 20
+image_files_in_zip: 0
+categories: {'热播精选': 200, '高清剧集': 200, '电影片库': 200, '新片速递': 200, '经典回看': 200, '悬疑剧场': 200, '动作冒险': 200, '爱情家庭': 200, '动画综艺': 200, '海外佳片': 200}
